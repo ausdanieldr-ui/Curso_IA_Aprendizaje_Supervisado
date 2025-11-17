@@ -1,5 +1,7 @@
 # 👋 Hola, soy Dani
 
+<img width="1024" height="1024" alt="encabezado" src="https://github.com/user-attachments/assets/99918d43-3974-40f8-9844-977b71d7e8c7" />
+
 ## 📖 Sobre mí
 
 - 🧬 Bioquímico e Inmunólogo 👨‍🔬
